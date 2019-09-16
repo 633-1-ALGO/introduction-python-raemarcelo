@@ -4,3 +4,14 @@
 
 a = 11
 b = 42
+
+print('Valeur de a : ', a)
+print('Valeur de b :', b)
+
+c = a
+d = b
+a = d
+b = c
+
+print ('Valeur de a-new : ', a)
+print ('Valeur de b-new : ', b)

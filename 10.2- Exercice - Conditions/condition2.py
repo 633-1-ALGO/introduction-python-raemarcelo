@@ -7,3 +7,19 @@
 #                       Sinon, elle est bissextile.
 #
 # Résultat attendu : Un message affichant "Année bissextile" ou "Année non bissextile"
+
+annee = 2019
+
+total = annee % 4
+
+if total > 0:
+    print("Année non bissextile")
+else:
+    total = annee % 100
+    print (total)
+    if total > 0:
+        total = annee % 400
+        if total > 0:
+            print("Année bissextile")
+        else:
+            print ("Annéee non bissextile")

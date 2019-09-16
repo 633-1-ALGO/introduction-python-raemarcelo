@@ -4,3 +4,18 @@
 # Indications :  Vous pouvez changer les valeurs des variables pour vos tests.
 c = 42
 d = 31
+
+
+if c > 0:
+    print(c)
+    print('c est positif')
+elif c < 0:
+    print(c)
+    print('c est négatif')
+
+if d > 0:
+    print(d)
+    print('d est positif')
+elif d < 0:
+    print(d)
+    print('d est négatif')

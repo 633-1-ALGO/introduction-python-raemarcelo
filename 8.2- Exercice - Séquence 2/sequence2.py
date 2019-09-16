@@ -4,3 +4,13 @@
 
 nb_articles = 13
 prix_ht = 42.75
+
+total = nb_articles*prix_ht
+
+print ('Total sans TVA: ', total)
+
+tva = (total/100)*7.7
+
+totalTva = tva + total
+
+print ('Total avec TVA: ', totalTva)
