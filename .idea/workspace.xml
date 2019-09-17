@@ -2,16 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ec7147b-d0f9-4cfb-b32a-0ca2d90cdbe3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/IntroductionPython.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/IntroductionPython.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.1- Exercice - Conditions/condition1.py" beforeDir="false" afterPath="$PROJECT_DIR$/10.1- Exercice - Conditions/condition1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.2- Exercice - Conditions/condition2.py" beforeDir="false" afterPath="$PROJECT_DIR$/10.2- Exercice - Conditions/condition2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/11.1- Exercice - Boucle/boucle1.py" beforeDir="false" afterPath="$PROJECT_DIR$/11.1- Exercice - Boucle/boucle1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.1- Exercice - Séquence 1/sequence1.py" beforeDir="false" afterPath="$PROJECT_DIR$/8.1- Exercice - Séquence 1/sequence1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.2- Exercice - Séquence 2/sequence2.py" beforeDir="false" afterPath="$PROJECT_DIR$/8.2- Exercice - Séquence 2/sequence2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/9.1- Exercice - Traitement de string/string1.py" beforeDir="false" afterPath="$PROJECT_DIR$/9.1- Exercice - Traitement de string/string1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/9.2  Exercice - Traitement de string/string2.py" beforeDir="false" afterPath="$PROJECT_DIR$/9.2  Exercice - Traitement de string/string2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11.2- Exercice - Boucle/boucle2.py" beforeDir="false" afterPath="$PROJECT_DIR$/11.2- Exercice - Boucle/boucle2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12.1- Exercice - Listes et Tableaux/liste1.py" beforeDir="false" afterPath="$PROJECT_DIR$/12.1- Exercice - Listes et Tableaux/liste1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12.2- Exercice - Listes et Tableaux/liste2.py" beforeDir="false" afterPath="$PROJECT_DIR$/12.2- Exercice - Listes et Tableaux/liste2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/13.1- Exercice - Fonctions/fonction.py" beforeDir="false" afterPath="$PROJECT_DIR$/13.1- Exercice - Fonctions/fonction.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7- Introduction - Fonctions/fonction.py" beforeDir="false" afterPath="$PROJECT_DIR$/7- Introduction - Fonctions/fonction.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,222 +19,14 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="1921409014">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="py" value="16" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="Python" value="16" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="py" value="1691" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="Python" value="1691" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/8.1- Exercice - Séquence 1/sequence1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="31" lean-forward="true" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/8.2- Exercice - Séquence 2/sequence2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/9.1- Exercice - Traitement de string/string1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/9.2  Exercice - Traitement de string/string2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/10.1- Exercice - Conditions/condition1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="12" lean-forward="true" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/10.2- Exercice - Conditions/condition2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="17" lean-forward="true" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/11.1- Exercice - Boucle/boucle1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/6- Introduction - Boucle For/boucle_for.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="9" lean-forward="true" selection-start-line="12" selection-end-line="18" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/8.1- Exercice - Séquence 1/sequence1.py" />
-        <option value="$PROJECT_DIR$/8.2- Exercice - Séquence 2/sequence2.py" />
-        <option value="$PROJECT_DIR$/9.1- Exercice - Traitement de string/string1.py" />
-        <option value="$PROJECT_DIR$/10.1- Exercice - Conditions/condition1.py" />
-        <option value="$PROJECT_DIR$/9.2  Exercice - Traitement de string/string2.py" />
-        <option value="$PROJECT_DIR$/10.2- Exercice - Conditions/condition2.py" />
-        <option value="$PROJECT_DIR$/11.1- Exercice - Boucle/boucle1.py" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="248" />
-    <option name="y" value="30" />
-    <option name="width" value="1400" />
-    <option name="height" value="1000" />
-  </component>
   <component name="ProjectId" id="1QrqZGjLzaOZjraRREi3sRQ8aCP" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Course" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="introduction-python-raemarcelo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="introduction-python-raemarcelo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="introduction-python-raemarcelo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="introduction-python-raemarcelo" type="462c0819:PsiDirectoryNode" />
-              <item name="1- Introduction - Séquences" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="introduction-python-raemarcelo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="introduction-python-raemarcelo" type="462c0819:PsiDirectoryNode" />
-              <item name="2- Introduction - Traitement de string" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="introduction-python-raemarcelo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="introduction-python-raemarcelo" type="462c0819:PsiDirectoryNode" />
-              <item name="3- Introduction - Listes et Tableaux" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="introduction-python-raemarcelo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="introduction-python-raemarcelo" type="462c0819:PsiDirectoryNode" />
-              <item name="4- Introduction - Conditions" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="introduction-python-raemarcelo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="introduction-python-raemarcelo" type="462c0819:PsiDirectoryNode" />
-              <item name="5- Introduction - Boucle While" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="introduction-python-raemarcelo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="introduction-python-raemarcelo" type="462c0819:PsiDirectoryNode" />
-              <item name="6- Introduction - Boucle For" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="introduction-python-raemarcelo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="introduction-python-raemarcelo" type="462c0819:PsiDirectoryNode" />
-              <item name="8.1- Exercice - Séquence 1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="introduction-python-raemarcelo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="introduction-python-raemarcelo" type="462c0819:PsiDirectoryNode" />
-              <item name="8.2- Exercice - Séquence 2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="introduction-python-raemarcelo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="introduction-python-raemarcelo" type="462c0819:PsiDirectoryNode" />
-              <item name="9.1- Exercice - Traitement de string" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="introduction-python-raemarcelo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="introduction-python-raemarcelo" type="462c0819:PsiDirectoryNode" />
-              <item name="9.2  Exercice - Traitement de string" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="introduction-python-raemarcelo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="introduction-python-raemarcelo" type="462c0819:PsiDirectoryNode" />
-              <item name="10.1- Exercice - Conditions" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="introduction-python-raemarcelo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="introduction-python-raemarcelo" type="462c0819:PsiDirectoryNode" />
-              <item name="10.2- Exercice - Conditions" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="introduction-python-raemarcelo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="introduction-python-raemarcelo" type="462c0819:PsiDirectoryNode" />
-              <item name="11.1- Exercice - Boucle" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
-  </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -248,8 +40,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.boucle1">
-    <configuration name="boucle1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.liste1">
+    <configuration name="fonction (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="IntroductionPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -257,11 +49,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11.1- Exercice - Boucle" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/13.1- Exercice - Fonctions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11.1- Exercice - Boucle/boucle1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/13.1- Exercice - Fonctions/fonction.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -270,7 +62,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="boucle_for" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="fonction" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="IntroductionPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -278,11 +70,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6- Introduction - Boucle For" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7- Introduction - Fonctions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6- Introduction - Boucle For/boucle_for.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7- Introduction - Fonctions/fonction.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -291,7 +83,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="boucle_while" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="liste1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="IntroductionPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -299,11 +91,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5- Introduction - Boucle While" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12.1- Exercice - Listes et Tableaux" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5- Introduction - Boucle While/boucle_while.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12.1- Exercice - Listes et Tableaux/liste1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -312,7 +104,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="condition2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="liste2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="IntroductionPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -320,11 +112,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10.2- Exercice - Conditions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12.2- Exercice - Listes et Tableaux" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10.2- Exercice - Conditions/condition2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12.2- Exercice - Listes et Tableaux/liste2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -333,7 +125,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="string2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="listes" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="IntroductionPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -341,11 +133,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/9.2  Exercice - Traitement de string" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3- Introduction - Listes et Tableaux" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/9.2  Exercice - Traitement de string/string2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3- Introduction - Listes et Tableaux/listes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -355,119 +147,36 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.string2" />
-      <item itemvalue="Python.condition2" />
-      <item itemvalue="Python.boucle_while" />
-      <item itemvalue="Python.boucle_for" />
-      <item itemvalue="Python.boucle1" />
+      <item itemvalue="Python.liste1" />
+      <item itemvalue="Python.liste2" />
+      <item itemvalue="Python.fonction" />
+      <item itemvalue="Python.fonction (1)" />
+      <item itemvalue="Python.listes" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.boucle1" />
-        <item itemvalue="Python.condition2" />
-        <item itemvalue="Python.boucle_for" />
-        <item itemvalue="Python.boucle_while" />
-        <item itemvalue="Python.string2" />
+        <item itemvalue="Python.liste1" />
+        <item itemvalue="Python.fonction (1)" />
+        <item itemvalue="Python.listes" />
+        <item itemvalue="Python.liste2" />
+        <item itemvalue="Python.fonction" />
       </list>
     </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="248" y="30" width="1400" height="1000" extended-state="0" />
-    <editor active="true" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2496329" />
-      <window_info id="Structure" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" weight="0.32997763" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32997763" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/1- Introduction - Séquences/sequences.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3- Introduction - Listes et Tableaux/listes.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/8.1- Exercice - Séquence 1/sequence1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="31" lean-forward="true" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/8.2- Exercice - Séquence 2/sequence2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2- Introduction - Traitement de string/strings.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/9.1- Exercice - Traitement de string/string1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10.1- Exercice - Conditions/condition1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="12" lean-forward="true" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/9.2  Exercice - Traitement de string/string2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4- Introduction - Conditions/conditions.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5- Introduction - Boucle While/boucle_while.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10.2- Exercice - Conditions/condition2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="17" lean-forward="true" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6- Introduction - Boucle For/boucle_for.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="9" lean-forward="true" selection-start-line="12" selection-end-line="18" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/11.1- Exercice - Boucle/boucle1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
