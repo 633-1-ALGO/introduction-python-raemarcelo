@@ -6,8 +6,14 @@ tab_lettres = [
     ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w',
      'x', 'y', 'z', ' '], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]]
 
+list = []
 cpt = 0
-for letter in tab_lettres:
+del tab_lettres[1]
+for l in tab_lettres[0]:
 
-    print (cpt)
-    cpt += 1
+    list.append(texte.count(str(l)))
+
+tab_lettres.append(list)
+print(tab_lettres)
+
+

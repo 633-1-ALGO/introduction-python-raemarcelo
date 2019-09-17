@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+
 # Problème : Etant donné un tableau, afficher l'indice du tableau comportant la valeur la plus elevée.
 # Résultat attendu : Un affichage comme ceci : "La valeur maximum est :  x  et elle se trouve à l'indice [ n ][ m ]
 

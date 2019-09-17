@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+
 # Problème : Réaliser une table de multiplication de taile 10x10 en utilisant la liste fournie.
 # Résultat attendu : un affichage comme ceci :   1  2  3  4  5  6  7  8  9  10
 #                                             1  1  2  3  4  5  6  7  8  9  10
@@ -12,11 +12,14 @@ liste = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 cpt = 0
 total = 0
 for element in liste:
-
+    list = ""
     for n in liste:
         liste2 = []
         liste2.append(element*n)
+        list = list + " " + str(element * n)
 
-    print (liste2)
+    print (list)
+
+
 
 
