@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 # Exemple de fonction
 
 def multiplication(n, m, p=1):  # p a comme valeur par défaut 1

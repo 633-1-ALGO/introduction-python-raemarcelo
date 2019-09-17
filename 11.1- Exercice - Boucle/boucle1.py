@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 # Problème : Etant donné un tableau A de "n" nombres réels, on demande la moyenne des nombres du tableau
 # Données : un tableau A de n nombre réels
 # Résultat attendu : Moyenne des nombres réels du tableau A
