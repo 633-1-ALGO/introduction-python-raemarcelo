@@ -8,12 +8,16 @@ tab_lettres = [
 
 list = []
 cpt = 0
-del tab_lettres[1]
-for l in tab_lettres[0]:
 
-    list.append(texte.count(str(l)))
+def frequence(txt,array):
+    del array[1]
+    for l in array[0]:
 
-tab_lettres.append(list)
-print(tab_lettres)
+        list.append(txt.count(str(l)))
 
+    array.append(list)
+    print(array)
+
+
+frequence(texte,tab_lettres)
 
